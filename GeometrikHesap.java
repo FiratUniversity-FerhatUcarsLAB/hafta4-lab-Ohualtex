@@ -17,6 +17,7 @@ public class GeometrikHesap {
         double r = input.nextDouble();
 
         double daireAlani = PI * Math.pow(r, 2);
+        
         double daireCevresi = 2 * PI * r;
         double daireCapi = 2 * r;
         double kureHacmi = (4.0 / 3.0) * PI * Math.pow(r, 3);
@@ -24,13 +25,12 @@ public class GeometrikHesap {
 
         System.out.println("\nSONUCLAR:");
         System.out.println("----------");
-        System.out.printf("Daire Alani        : %.2f cm²\n", daireAlani);
+        System.out.printf("Daire Alani        : %.2f cm^2\n", daireAlani);
         System.out.printf("Daire Cevresi      : %.2f cm\n", daireCevresi);
         System.out.printf("Daire Capi         : %.2f cm\n", daireCapi);
-        System.out.printf("Kure Hacmi         : %.2f cm³\n", kureHacmi);
-        System.out.printf("Kure Yuzey Alani   : %.2f cm²\n", kureYuzeyAlani);
+        System.out.printf("Kure Hacmi         : %.2f cm^3\n", kureHacmi);
+        System.out.printf("Kure Yuzey Alani   : %.2f cm^2\n", kureYuzeyAlani);
 
         input.close();
     }
 }
-
