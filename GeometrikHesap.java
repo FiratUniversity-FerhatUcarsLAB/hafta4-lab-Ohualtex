@@ -1,7 +1,7 @@
 /*
- * Ad Soyad : Mirac Duran
+ * Ad Soyad : Miraç Duran
  * Ogrenci No: 250541091
- * Tarih    : 2.11.2025
+ * Tarih : 2.11.2025
  * Aciklama : Geometrik Hesaplayici
  */
 
