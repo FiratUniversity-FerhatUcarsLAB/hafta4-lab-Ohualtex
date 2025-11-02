@@ -1,6 +1,6 @@
 /*
  * Ad Soyad: [Mirac Duran]
- * Ogrenci No: [2505411091]
+ * Ogrenci No: [250541091]
  * Tarih: [2.11.2025]
  * Aciklama: Geometrik Hesaplayici
  */
